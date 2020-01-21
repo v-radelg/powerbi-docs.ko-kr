@@ -16,7 +16,7 @@ ms.contentlocale: ko-KR
 ms.lasthandoff: 11/09/2019
 ms.locfileid: "73872734"
 ---
-# <a name="introduction-to-dashboards-for-power-bi-designers"></a>Power BI 디자이너용 대시보드 소개
+# <a name="introduction-to-dashboards-for-power-bi-designers"></a>Power BI 디자이너용 대시보드 소개TEST
 
 Power BI *대시보드*는 시각화를 통해 스토리를 알려주는 흔히 캔버스라고 불리는 단일 페이지입니다. 한 페이지로 제한되기 때문에 잘 디자인된 대시보드는 해당 스토리의 하이라이트만 포함합니다. Readers(읽기 권한자)는 세부 정보에 대한 관련 보고서를 볼 수 있습니다.
 
