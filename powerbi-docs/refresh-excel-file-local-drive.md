@@ -16,7 +16,7 @@ ms.contentlocale: ko-KR
 ms.lasthandoff: 12/02/2019
 ms.locfileid: "74698765"
 ---
-# <a name="refresh-a-dataset-created-from-an-excel-workbook-on-a-local-drive"></a>로컬 드라이브에 있는 Excel 통합 문서로부터 만들어진 데이터 세트 새로 고침
+# <a name="refresh-a-dataset-created-from-an-excel-workbook-on-a-local-drive"></a>로컬 드라이브에 있는 Excel 통합 문서로부터 만들어진 데이터 세트 새로 고침TEST
 ## <a name="whats-supported"></a>무엇이 지원되나요?
 Power BI에서 지금 새로 고침 및 새로 고침 예약은 다음 데이터 원본에 연결하고 Excel 데이터 모델에 데이터를 로드하는 데 파워 쿼리(Excel 2016에서 데이터 가져오기 및 변환) 또는 파워 피벗을 사용하는 로컬 드라이브에서 가져온 Excel 통합 문서에서 만든 데이터 세트에 지원됩니다.  
 
